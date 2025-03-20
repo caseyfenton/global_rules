@@ -1,0 +1,18 @@
+# Ignore the protected folder containing sensitive files
+/protected/
+
+# Specifically ignore password files
+*.password
+.password
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore encrypted and zip files
+*.enc
+*.zip
